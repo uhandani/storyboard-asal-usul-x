@@ -37,8 +37,7 @@ A  0.0–7.5  [transition in: iris from black, opening around the lamp flame]
            3.5–5.5  Clawd tugs the knot, it won't open → '?' (eye: Clawd's hand)
            5.5–7.5  Clawd taps the bundle, bulb pops: "the thing" (hold)
 
-B  7.5–15.0  [transition: match cut. The swinging scale pan becomes the arc of a ship's sail
-   crossing the sea → the camera keeps moving right, into a Toledo window]
+B  7.5–15.0  [transition: indigo → ochre brush wipe; the camera opens close on the bundle, then pulls back]
    Toledo scriptorium. Clawd (same hood, now dusty) holds the bundle with a blank parchment.
    EVENT: Clawd tries to SAY the name. The mouth opens, a wavy "shhh" wind stroke comes out
    and dissolves (no letters, only a painted puff). Again: sweat, frustrated.
@@ -49,8 +48,7 @@ B  7.5–15.0  [transition: match cut. The swinging scale pan becomes the arc of
            11.0–12.5 eyes swing to the χ in the book (Clawd looks first, then the camera)
            12.5–15.0 big brush stroke: ✕ on the bundle, Clawd steps back, satisfied (hold)
 
-C  15.0–22.0  [transition: cut on action. Clawd's brush stroke continues straight into the
-   swing of the press lever]
+C  15.0–22.0  [transition: sepia brush wipe; Clawd pulls the press lever on a rope]
    Printing house (1637). The press slams down: ✕ ✕ ✕ printed onto sheet after sheet.
    EVENT: the sheets fly off on arcs and scatter, and the ✕ marks multiply. Clawd (hat:
    top, Descartes-era) works the lever on the beat, happy, then dizzy at the paper storm (swirl).
@@ -77,7 +75,7 @@ D  22.0–30.0  [transition: the floating sheet covers the camera (paper wipe) �
 
 - **Event in every shot:** A, the bundle won't open · B, the ✕ is created · C, the ✕ spreads · D, the bundle opens. ✅
 - **Reads have time:** each read is ≥ 1.5 s, and no two important reads overlap. ✅
-- **Transition at every seam:** iris in · match cut (scale→sail) · cut on action (brush→lever) · paper wipe · ✕-iris out. ✅
+- **Transition at every seam:** iris in from the lamp flame · brush wipe (night→ochre) · brush wipe (sepia) · paper wipe · ✕-iris out. ✅
 - **Text:** no words, no numbers. The equation is pebbles/dots. The ✕ is two brush strokes, and the χ in the book is one painted mark. ✅
 - **Ending rhymes with the opening:** the same scale and bundle, but now the answer is found. ✅
 - **Render note:** no GPU in this container. Watercolour `fill` will be limited to the backgrounds (sky, wall), and flat `wash` used for the rest, so the render time stays reasonable.
